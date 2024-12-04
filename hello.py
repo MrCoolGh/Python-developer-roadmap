@@ -4,7 +4,7 @@ def welcome():
     print("Welcome to Python Developer Roadmap")
 
 def goodLuck():
-    """ Function print outs finishing sentence """
+    """  Function print outs finishing sentence  """
     print("Good luck, Have fun and DO NOT FORGET PRs ARE WELCOME")
 
 
